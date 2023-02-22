@@ -1,2 +1,17 @@
 sudo yum-config-manager --add-repo https://cli.github.com/packages/rpm/gh-cli.repo
 sudo yum install gh
+git auth login
+git -version 
+git config --global user.name "yoyr name"
+git config --global user.name "your @example.com"
+ssh-keygen
+cat (copied link)
+git add .
+git commit -m "firstcommit"
+git push -u origin (created file not in main)
+git clone (ssh link from github)
+git push 
+git pull
+git branch
+git branch -m main
+git switch branchname
